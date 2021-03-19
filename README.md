@@ -1,2 +1,2 @@
 # SQL
-We will revisit the SQL using jupyter notebook (& sqlite)
+We will revisit the basic of SQL and its different operations.
