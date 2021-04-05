@@ -9,3 +9,7 @@
 - construct subqueries using SELECT, FROM, WHERE
 - nested and correlated subqueries to extract more complex data from a relational database
 - common table expressions 
+## Intermediate 
+- Intro to windows functions
+- fetching,ranking, paging
+- aggregate window functions and frames
