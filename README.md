@@ -13,3 +13,4 @@
 - Intro to windows functions
 - fetching,ranking, paging
 - aggregate window functions and frames
+- pivoting, roll-up and cube
