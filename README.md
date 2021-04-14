@@ -14,3 +14,4 @@
 - fetching,ranking, paging
 - aggregate window functions and frames
 - pivoting, roll-up and cube
+- COALESCE and STRING_AGG
