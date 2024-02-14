@@ -1,0 +1,1 @@
+In this project, we will perform Exploratory Data Analysis in PostgreSQL. The dataset we chose collected from thinknum.com. We got the Entity relationship diagram which shows the structure of the database from the database creator. 
